@@ -1,4 +1,5 @@
 //4 wheel drive
+//please alter the threshold values according to the transmitter signal
 int ch1=8;
 
 int ch2=9;
